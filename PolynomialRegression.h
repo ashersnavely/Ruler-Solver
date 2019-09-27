@@ -1,6 +1,8 @@
 #ifndef _POLYNOMIAL_REGRESSION_H
 #define _POLYNOMIAL_REGRESSION_H
 
+//Not mine, credit to some place on the internet at a time I had too little sleep to care.. I just cleaned it up mostly I think
+
 //Polynomial Fit
 #include<iostream>
 #include<iomanip>
